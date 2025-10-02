@@ -1,2 +1,13 @@
 # TP-231
-Mon premier projet Github
+projet de manipulation des listes chainees
+ce projet implemente differentes operations sur les listes chainees dans le langage de programmation C
+les fonctions implementees
+-fonction supprimeroccurences()
+lis un element et supprime toutes ses occurences
+complexité O(n)
+-fonction insererlistetriee()
+insere un element dans une liste
+tout en maintenant l'ordre croissant
+complexite O(n)
+-inserertetecirculaire() et insererqueuecirculaire(): insere en tete et en queue
+complexite O(n)
