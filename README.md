@@ -9,5 +9,5 @@ complexité O(n)
 insere un element dans une liste
 tout en maintenant l'ordre croissant
 complexite O(n)
--inserertetecirculaire() et insererqueuecirculaire(): insere en tete et en queue
+-fonction: inserertetecirculaire() et insererqueuecirculaire():  permet inserer en tete et en queue
 complexite O(n)
